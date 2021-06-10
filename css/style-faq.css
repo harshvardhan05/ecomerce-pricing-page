@@ -1,0 +1,40 @@
+body{
+    margin: 0 10px;
+
+}
+
+span{
+    background: #fff;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+span:hover, 
+span:focus{
+    background: orange;
+}
+
+p{
+    display: none;
+    font-size: 25px;
+}
+
+img{
+    display: inline-block;
+}
+
+h1{
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 40px;
+    background-color: orange;
+}
+
+h2{
+    background: #252525;
+    color: #fff;
+    padding: 10px 0;
+    margin-left: 5px;
+}
